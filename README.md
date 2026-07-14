@@ -1,6 +1,3 @@
-# VCC_Assignments
-Cloud infrastructure assignments | GCP auto-scaling, VirtualBox microservices, Prometheus + Grafana monitoring
-
 # Virtualisation & Cloud Computing | GCP Lab Assignments
 
 ![GCP](https://img.shields.io/badge/Google%20Cloud-Compute%20Engine%20%7C%20MIG%20%7C%20IAM-4285F4?logo=googlecloud&logoColor=white)
